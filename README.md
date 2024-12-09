@@ -8,11 +8,11 @@ It is a linear data structure that can be visualized as a chain with different n
 
 Since for any element to be added in an array, we need the exact next memory location to be empty, and it is impossible to guarantee that it is possible. Hence adding elements to an array is not possible after the initial assignment of size.
 
-# linked_list
+# Linked_list
 
 A linked list is a data structure containing two crucial pieces of information, the first being the data and the other being the pointer to the next element. The ‘head’ is the first node, and the ‘tail’ is the last node in a
 
-# linked list.
+# Linked list.
 
 There are two information sets to store at every node, thus there is a need to create a self-defined data type to handle them. Therefore, we will use the help of structs and classes. To learn about structs and classes
 
